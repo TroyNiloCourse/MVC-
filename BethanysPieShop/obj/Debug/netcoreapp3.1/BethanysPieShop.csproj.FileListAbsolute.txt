@@ -268,3 +268,4 @@ D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\obj\Debug\netcoreapp3.1\Bethany
 D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.dll
 D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.pdb
 D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.genruntimeconfig.cache
+D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PieCard.cshtml.g.cs
