@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g+AOHXJmMSDe4g4EYb+60IdYo/LanI+gXIgbfydOXt7ATBCFbABytD5XNP0lpF89zsOCPWqlQvO2tcbrfqyI3g==",
+  "dgSpecHash": "JNN6vtrIz1gsrSH7OXA+WHHN8s5BXntei0gocaQl85RAavBrEinXNexBEphsTwdKGjlwPG1Jk1vc16JB1EA+zA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
+  "projectFilePath": "D:\\Projects\\BethanysPieShop\\MVC-\\BethanysPieShop\\BethanysPieShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

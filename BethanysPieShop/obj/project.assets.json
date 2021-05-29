@@ -8241,11 +8241,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
+      "projectUniqueName": "D:\\Projects\\BethanysPieShop\\MVC-\\BethanysPieShop\\BethanysPieShop.csproj",
       "projectName": "BethanysPieShop",
-      "projectPath": "C:\\Users\\user\\source\\repos\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
+      "projectPath": "D:\\Projects\\BethanysPieShop\\MVC-\\BethanysPieShop\\BethanysPieShop.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\BethanysPieShop\\BethanysPieShop\\obj\\",
+      "outputPath": "D:\\Projects\\BethanysPieShop\\MVC-\\BethanysPieShop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
