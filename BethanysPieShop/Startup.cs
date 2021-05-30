@@ -28,6 +28,10 @@ namespace BethanysPieShop
             services.AddDbContext<AppDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             services.AddScoped<IPieRepository, PieRepository>();
             services.AddScoped<ICategoryRepository, CategoryRepository>();
+            services.AddScoped<ShoppingCart>(sp => ShoppingCart.GetCart(sp));
+            services.AddHttpContextAccessor();
+            services.AddSession();
+
             services.AddControllersWithViews();
         }
 
@@ -47,9 +51,10 @@ namespace BethanysPieShop
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();//to save static file etc. images css
+            app.UseSession();
 
             app.UseRouting();
-
+            
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
