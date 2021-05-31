@@ -18,7 +18,8 @@
                 <td class="text-center">@line.Amount</td>
                 <td class="text-center">@line.Pie.Name</td>
                 <td class="text-center">@line.Pie.Price.ToString("c")</td>
-                <td class="text-center">((@line.Amount * @line.Pie.Price).ToString("c"))</td>
+                <td class="text-center">
+               @((line.Amount * line.Pie.Price).ToString("c"))</td>
             </tr>
             }
         </tbody>

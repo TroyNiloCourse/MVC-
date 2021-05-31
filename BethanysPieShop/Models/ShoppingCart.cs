@@ -24,7 +24,7 @@ namespace BethanysPieShop.Models
 
             var context = services.GetService<AppDbContext>();
 
-            string cartId = session.GetString("CardId") ?? Guid.NewGuid().ToString();
+            string cartId = session.GetString("CartId") ?? Guid.NewGuid().ToString();
                 
             session.SetString("CartId", cartId);
 

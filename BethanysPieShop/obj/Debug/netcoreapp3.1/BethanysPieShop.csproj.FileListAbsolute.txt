@@ -256,9 +256,13 @@ D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\P
 D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
 D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
 D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Pie\Details.cshtml.g.cs
 D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Pie\List.cshtml.g.cs
+D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Carousel.cshtml.g.cs
 D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PieCard.cshtml.g.cs
+D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\ShoppingCart\Index.cshtml.g.cs
 D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
 D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
 D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.RazorTargetAssemblyInfo.cache
@@ -268,7 +272,4 @@ D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\obj\Debug\netcoreapp3.1\Bethany
 D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.dll
 D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.pdb
 D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.genruntimeconfig.cache
-D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PieCard.cshtml.g.cs
-D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Carousel.cshtml.g.cs
-D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs

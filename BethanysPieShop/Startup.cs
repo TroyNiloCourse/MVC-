@@ -31,7 +31,6 @@ namespace BethanysPieShop
             services.AddScoped<ShoppingCart>(sp => ShoppingCart.GetCart(sp));
             services.AddHttpContextAccessor();
             services.AddSession();
-
             services.AddControllersWithViews();
         }
 
