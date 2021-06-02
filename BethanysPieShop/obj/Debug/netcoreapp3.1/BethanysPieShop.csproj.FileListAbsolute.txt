@@ -276,3 +276,4 @@ D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\V
 D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoryMenu\Default.cshtml.g.cs
 D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
 D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Order\CheckoutComplete.cshtml.g.cs

@@ -34,7 +34,7 @@ namespace BethanysPieShop.Models
 
                 };
 
-                _appDbContext.OrderDetail.Add(orderDetail);
+                _appDbContext.OrderDetails.Add(orderDetail);
             }
             _appDbContext.SaveChanges();
         }
