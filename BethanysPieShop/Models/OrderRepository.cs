@@ -19,7 +19,7 @@ namespace BethanysPieShop.Models
         {
             order.OrderPlaced = DateTime.Now;
 
-            _appDbContext.Order.Add(order);
+            _appDbContext.Orders.Add(order);
 
             var shoppingCartItems = _shoppingCart.ShoppingCartItems;
 
@@ -34,7 +34,7 @@ namespace BethanysPieShop.Models
 
                 };
 
-                _appDbContext.OrderDetails.Add(orderDetail);
+                _appDbContext.OrderDetail.Add(orderDetail);
             }
             _appDbContext.SaveChanges();
         }
