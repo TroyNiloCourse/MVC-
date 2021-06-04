@@ -277,3 +277,9 @@ D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\V
 D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
 D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
 D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Order\CheckoutComplete.cshtml.g.cs
+D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\bin\Debug\netcoreapp3.1\BethanysPieShop.StaticWebAssets.xml
+D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\Projects\BethanysPieShop\MVC-\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.MvcApplicationPartsAssemblyInfo.cs
