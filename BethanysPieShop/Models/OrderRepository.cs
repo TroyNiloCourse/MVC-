@@ -18,8 +18,8 @@ namespace BethanysPieShop.Models
         public void CreatOrder(Order order)
         {
             order.OrderPlaced = DateTime.Now;
-
             _appDbContext.Orders.Add(order);
+            _appDbContext.SaveChanges();
 
             var shoppingCartItems = _shoppingCart.ShoppingCartItems;
 
@@ -37,6 +37,7 @@ namespace BethanysPieShop.Models
                 _appDbContext.OrderDetail.Add(orderDetail);
             }
             _appDbContext.SaveChanges();
+
         }
     }
 }
